@@ -105,4 +105,4 @@ This project uses the [StegoImagesDataset](https://www.kaggle.com/datasets/marco
 
 ## Acknowledgments:
 ### contributor:
-Saffan Farooqui - k213562@nu.edu.pk
+Saffan Farooqui - k214781@nu.edu.pk
