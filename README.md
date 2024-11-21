@@ -1,3 +1,4 @@
+
 # Steganography Detection Tool - Artificial Intelligence Semester Project
 
 A GUI-based application for detecting steganography in images. This tool allows users to train a machine learning model on clean and steganographic images, make predictions on new images, and visualize model performance. The application uses color histogram features and a Random Forest classifier to identify hidden content in images.
@@ -32,23 +33,25 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/AI-Steganography-Analyzer.git
 cd AI-Steganography-Analyzer
+```
 
 ### 2. Install the required packages:
 Make sure you have Python 3.6 or higher installed, then install the necessary packages with:
 ```bash
 pip install -r requirements.txt
+```
 This will install all the dependencies for the project.
 
 ### 1. Install the required packages:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 ### Run the application
 ```bash
 python main.py
-
+```
 
 ## Using the GUI
 
@@ -85,7 +88,7 @@ To run the application, ensure you have the following Python packages installed:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please feel free to fork the repository and create a pull request.
@@ -98,8 +101,8 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 **Create a pull request**: Once you're done, push your changes to your forked repository and create a pull request to merge them into the original repository.
 
 - **Kaggle Dataset**
-This project uses the StegoImagesDataset from Kaggle for training the model. Make sure to download the dataset before training the model.
-Link: [text](https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset)
+This project uses the [StegoImagesDataset](https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset) from Kaggle for training the model. Make sure to download the dataset before training the model.
 
 ## Acknowledgments:
+### contributor:
 Saffan Farooqui - k213562@nu.edu.pk
