@@ -31,7 +31,7 @@ Follow these steps to install and run the Steganography Detection Tool:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/AI-Steganography-Analyzer.git
+git clone https://github.com/AzeemWaqar-R3BIRTH/AI-Steganography-Analyzer.git
 cd AI-Steganography-Analyzer
 ```
 
@@ -42,10 +42,6 @@ pip install -r requirements.txt
 ```
 This will install all the dependencies for the project.
 
-### 1. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 ### Run the application
@@ -104,5 +100,5 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 This project uses the [StegoImagesDataset](https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset) from Kaggle for training the model. Make sure to download the dataset before training the model.
 
 ## Acknowledgments:
-### contributor:
+### Contributor:
 Saffan Farooqui - k214781@nu.edu.pk
